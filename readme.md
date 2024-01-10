@@ -2,7 +2,7 @@
 
 Shopping list app with Vanilla JavaScript
 
-The Project focus is working with the DOM, events, state, local Storage and fundamentals of JavaScript.
+The Project focus is working with the DOM, events, state, local Storage and fundamentals of JavaScript.<br>
 Link to the Website: 
 https://transcendent-parfait-43b08b.netlify.app/
 
